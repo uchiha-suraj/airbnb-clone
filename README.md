@@ -1,68 +1,48 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AIRBNB-CLONE
 
-## Available Scripts
+<img src = "img/airbnb.png"  > 
 
-In the project directory, you can run:
+### 1. Firebase link of this project
+### 2. [Key Features](#key-features) 
+### 3. [Technologies I've used](#technologies-ive-used)
+ 
 
-### `npm start`
+## Firebase link of this project:  
+   ### See the project here >>>👉   https://airbnb-9713e.web.app/
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Key Features:
+    1. By clicking the 'Explore Nearby' option, we can get the list of nearby hotels.    
+       
+    2. The search date button is for showing a date picker, where we can choose days, dates,
+       the number of days we want to book the hotel for and also we can set the number of guests
+       to find the desired hotels.
+    
+    3. Whenever we scroll over the cards of this app, we can see a hover effect.
+  
+  ### Home Page
+  
+  <img src = "Gifs/airbnb_1.gif"  >
+  
+  ### Explore Nearby
+  
+  <img src = "Gifs/airbnb_2.gif"  >
+  
+  ### Date picker
+  
+  <img src = "Gifs/airbnb_3.gif"  >
+  
+  **[⬆ Back to Top](#airbnb-clone)**
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Technologies I've used:
+    1. react => Entire front-end design of this app is made by Reactjs.
+    
+    2. react-router => to move through te different pages of this app.
+    
+    3. material-UI => I've used Material-UI to style this application.
+    
+    4. react-date-range => to choose the dates and date ranges, for the date picker.
+        
+    5. firebase => to deploy the app
+    
+    
+  **[⬆ Back to Top](#airbnb-clone)**
