@@ -36,7 +36,7 @@
 ## Technologies I've used:
     1. react => Entire front-end design of this app is made by Reactjs.
     
-    2. react-router => to move through te different pages of this app.
+    2. react-router => to move through the different pages of this app.
     
     3. material-UI => I've used Material-UI to style this application.
     
