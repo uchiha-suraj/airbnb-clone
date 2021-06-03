@@ -38,7 +38,7 @@
     
     2. react-router => to move through the different pages of this app.
     
-    3. material-UI => I've used Material-UI to style this application.
+    3. material-UI => I've used Material-UI to design this application.
     
     4. react-date-range => to choose the dates and date ranges, for the date picker.
         
