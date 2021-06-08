@@ -38,11 +38,13 @@
     
     2. react-router => to move through the different pages of this app.
     
-    3. material-UI => I've used Material-UI to design this application.
+    3. flex-box => used flexbox in CSS.
     
-    4. react-date-range => to choose the dates and date ranges, for the date picker.
+    4. material-UI => I've used Material-UI to design this application.
+    
+    5. react-date-range => to choose the dates and date ranges, for the date picker.
         
-    5. firebase => to deploy the app
+    6. firebase => to deploy the app
     
     
   **[⬆ Back to Top](#airbnb-clone)**
